@@ -9,7 +9,7 @@
   height: 100vh;
   width: 100%;
   padding: 90px 0;
-  background: #ddd;
+  background: #830005;
 }
 .pic{
   height: auto;
@@ -38,7 +38,7 @@
   margin-bottom: 20px;
 }
 span{
-  color: #4070f4;
+  color: #fec62b;
 }
 .text p{
   font-size: 18px;
