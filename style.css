@@ -9,7 +9,7 @@
   height: 100vh;
   width: 100%;
   padding: 90px 0;
-  background: #830005;
+  background: #fec62b;
 }
 .pic{
   height: auto;
@@ -38,7 +38,7 @@
   margin-bottom: 20px;
 }
 span{
-  color: #fec62b;
+  color: #830005;
 }
 .text p{
   font-size: 18px;
@@ -50,7 +50,7 @@ span{
 }
 .hire{
   font-size: 18px;
-  background: #4070f4;
+  background: #830005;
   color: #fff;
   text-decoration: none;
   border: none;
@@ -60,5 +60,5 @@ span{
 }
 .hire:hover{
   background: #000;
-  border: 1px solid #fec62b;
+  border: 1px solid #fcae1e;
 }
